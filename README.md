@@ -1,34 +1,40 @@
 # Hi, I'm Austin (sudofox)
 
-![sudofox's GitHub stats][stats]
+I build platforms, tools, and experiments across web development, system administration, radio, weather, and community infrastructure.
 
-I build platforms, tools, and experiments that combine web development, system administration, and community features.  
-Most of my work lives where **creative expression** meets **infrastructure problem-solving**.
+Most of my work lives at the intersection of **creative expression**, **practical infrastructure**, and **strange little systems that should not exist but somehow do**.
 
 ## What I Work With
-- **Backend:** PHP, Python, Perl, MySQL, MariaDB, PostgreSQL  
-- **Frontend:** HTML, CSS, JavaScript, Vue.js, Twig  
-- **Systems:** Linux (RHEL/CentOS), Apache, NGINX, systemd, LVM, iptables, SELinux  
-- **Ops & Hosting:** cPanel, Plesk, DNS, SSL, server monitoring, incident response  
-- **Tooling:** Git, bash, SSH, automation, QA testing, regression analysis  
-- **Experiments:** network infrastructure, telephony/VoIP labs, SDR and radio systems  
+
+- **Backend:** PHP, Python, Perl, MySQL, MariaDB, PostgreSQL
+- **Frontend:** HTML, CSS, JavaScript, Vue.js, Twig
+- **Systems:** Linux, RHEL/CentOS/Rocky Linux, Apache, NGINX, systemd, LVM, SELinux
+- **Ops & Hosting:** DNS, SSL, cPanel, server monitoring, incident response, backups
+- **Tooling:** Git, bash, SSH, automation, QA testing, regression analysis
+- **Radio & Field Systems:** ham radio, SDR, GPS tracking, mobile data, storm-chasing tools
+- **Experiments:** network infrastructure, telephony/VoIP labs, weather data, dashboards, archives
 
 ## Projects
-- **[Sudomemo](https://www.sudomemo.net/)** — A global online Flipnote community for Nintendo DSi and 3DS  
-- **[Flipnote Archive](https://archive.sudomemo.net/)** — A complete archive of every Flipnote posted to Flipnote Hatena  
-- **Networking & Telephony Experiments** — Linux routers, VLANs, firewall tuning, Asterisk PBX, and PSTN/VoIP signaling  
-- …plus plenty of smaller projects, utilities, and experiments  
+
+- **[Sudomemo](https://www.sudomemo.net/)** — A global online Flipnote community for Nintendo DSi and 3DS
+- **[Flipnote Archive](https://archive.sudomemo.net/)** — A complete archive of every Flipnote posted to Flipnote Hatena
+- **Bolt** — Storm-chasing tools, placefiles, outage data, and field systems
+- **Networking & Telephony Experiments** — Linux routers, VLANs, firewall tuning, Asterisk PBX, and PSTN/VoIP signaling
+- **Radio & Weather Utilities** — SDR tools, ham radio experiments, SKYWARN-adjacent systems, and mobile field infrastructure
 
 ## Beyond Tech
-Outside of programming and infrastructure, I stay busy with:  
-- Ham radio (KD8OUY), spectrum monitoring, and storm chasing / SKYWARN  
-- Meteorology and emergency communications  
-- Arts and crafts projects  
-- Drink mixing and mixology  
-- Writing and creative storytelling  
+
+Outside of programming and infrastructure, I stay busy with:
+
+- Ham radio, KD8OUY
+- Storm chasing, SKYWARN, and emergency communications
+- Meteorology and weather data
+- Arts, crafts, and physical making
+- Writing, storytelling, and community worldbuilding
+- Mixology and hospitality
+- FLIPNOTES I CAN'T GET ENOUGH OF FLIPNOTES
 
 ---
 
-I enjoy blending **creative communities** with **deep technical work** — whether that’s hosting infrastructure, building backend systems, or experimenting with radios, weather, and art.  
+I like building things that connect people: creative communities, durable archives, weather tools, radio systems, and odd experiments that turn into real infrastructure.
 
-[stats]: https://github-readme-stats.vercel.app/api?username=sudofox&show_icons=true&count_private=true&theme=synthwave
