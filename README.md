@@ -18,7 +18,7 @@ Most of my work lives at the intersection of **creative expression**, **practica
 
 - **[Sudomemo](https://www.sudomemo.net/)** — A global online Flipnote community for Nintendo DSi and 3DS
 - **[Flipnote Archive](https://archive.sudomemo.net/)** — A complete archive of every Flipnote posted to Flipnote Hatena
-- **Bolt** — Storm-chasing tools, placefiles, outage data, and field systems
+- **[Bolt](https://lightni.ng/)** — Storm-chasing tools, placefiles, outage data, and field systems
 - **Networking & Telephony Experiments** — Linux routers, VLANs, firewall tuning, Asterisk PBX, and PSTN/VoIP signaling
 - **Radio & Weather Utilities** — SDR tools, ham radio experiments, SKYWARN-adjacent systems, and mobile field infrastructure
 
